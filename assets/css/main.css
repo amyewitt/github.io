@@ -62,7 +62,7 @@ p.section-item-detail {
 ==================================================*/
 .header
 {
-	background: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, .5)),url('../assets/images/01_header_image.png');
+	background: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, .5)),url('../images/01_header_image.png');
 	background-color: #ebebeb;
 	background-repeat: no-repeat;
 	background-position: bottom;
@@ -161,7 +161,7 @@ p.section-item-detail {
 
 	.header
 	{
-		background: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, .5)),url('../assets/images/header-image-smaller.png');
+		background: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, .5)),url('../images/header-image-smaller.png');
 		background-color: #ebebeb;
 		background-repeat: no-repeat;
 		background-position: bottom;
