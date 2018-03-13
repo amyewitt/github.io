@@ -1,3 +1,2 @@
-# My Portfolio
-
-A showcase of my work at Bloc.
+# SIGHT
+Free Responsive Web Template
