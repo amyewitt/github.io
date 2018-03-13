@@ -656,6 +656,10 @@ section li {
 		width: 100%;
 	}
 
+	section li {
+		width: 90%;
+	}
+
 	.body-copy p {
 		font-family:'lato'sans-serif;
 	}

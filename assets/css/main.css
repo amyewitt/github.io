@@ -158,21 +158,6 @@ p.section-item-detail {
 }
 
 @media screen and (max-width: 800px) {
-
-	.header
-	{
-		background: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, .5)),url('../images/header-image-smaller.png');
-		background-color: #ebebeb;
-		background-repeat: no-repeat;
-		background-position: bottom;
-		background-size: 100%;
-		background-attachment: fixed;
-		height: 100vh;
-		color: #fff;
-		text-transform: uppercase;
-
-	}
-
 .header-title{
 	font-size: 42px;
 }
