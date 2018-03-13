@@ -656,10 +656,6 @@ section li {
 		width: 100%;
 	}
 
-	section li {
-		width: 90%;
-	}
-
 	.body-copy p {
 		font-family:'lato'sans-serif;
 	}
@@ -673,6 +669,7 @@ section li {
     line-height:22px;
     letter-spacing:.01em;
     font-weight:300;
+		width: 90%
   }
 
 	.personas {
